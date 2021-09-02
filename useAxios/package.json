@@ -1,0 +1,25 @@
+{
+  "name": "@mjekott/use-axios",
+  "version": "1.0.1",
+  "description": "React Hooks to make http request using axios",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mjekott/mjekott-react-custom-hooks"
+  },
+  "keywords": [
+    "React",
+    "Hooks",
+    "Axios"
+  ],
+  "author": "Mfonbonong John Ekott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjekott/mjekott-react-custom-hooks/issues"
+  },
+  "homepage": "https://github.com/mjekott/mjekott-react-custom-hooks/#readme",
+  "peerDependencies": {
+    "axios": "^0.21.1",
+    "react": "^17.0.2"
+  }
+}
