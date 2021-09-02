@@ -26,7 +26,7 @@ function App() {
 
 ### Arguments
 
-| Argument      | Type   | Description           | Required |
-| ------------- | ------ | --------------------- | -------- |
-| option        | object | axios configuration   | yes      |
-| axiosinstance | axios  | an aisntance of axios | no       |
+| Argument      | Type   | Description                 | Required |
+| ------------- | ------ | --------------------------- | -------- |
+| option        | object | axios configuration options | yes      |
+| axiosinstance | axios  | an aisntance of axios       | no       |
